@@ -1,0 +1,10 @@
+"fretta13"
+{
+	"base"				"base"
+	"title"				"Jailbreak"
+	"menusystem"		"1"
+
+	"author_name"		"Gamenew09"
+	"author_email"		"gamenew09@gamenew09.com"
+	"author_url"		"http://www.gamenew09.com/"
+}
